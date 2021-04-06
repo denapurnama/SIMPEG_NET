@@ -137,6 +137,38 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\css\bootstrap-theme.min.css" />
+    <Content Include="Content\css\bootstrap.css" />
+    <Content Include="Content\css\checkbox3.min.css" />
+    <Content Include="Content\css\custom-styles.css" />
+    <Content Include="Content\css\font-awesome.css" />
+    <Content Include="Content\css\select2.min.css" />
+    <Content Include="Content\font-awesome\fonts\fontawesome-webfontba72.svg" />
+    <Content Include="Content\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Content\img\bg-img.jpg" />
+    <Content Include="Content\js\bootstrap.min.js" />
+    <Content Include="Content\js\chart-data.js" />
+    <Content Include="Content\js\chart.min.js" />
+    <Content Include="Content\js\chartjs.js" />
+    <Content Include="Content\js\custom-scripts.js" />
+    <Content Include="Content\js\custom.js" />
+    <Content Include="Content\js\dataTables\dataTables.bootstrap.css" />
+    <Content Include="Content\js\dataTables\dataTables.bootstrap.js" />
+    <Content Include="Content\js\dataTables\jquery.dataTables.js" />
+    <Content Include="Content\js\easypiechart-data.js" />
+    <Content Include="Content\js\easypiechart.js" />
+    <Content Include="Content\js\jquery-1.10.2.js" />
+    <Content Include="Content\js\jquery.metisMenu.js" />
+    <Content Include="Content\js\Lightweight-Chart\chart.js" />
+    <Content Include="Content\js\Lightweight-Chart\cssCharts.css" />
+    <Content Include="Content\js\Lightweight-Chart\index - Copy.html" />
+    <Content Include="Content\js\Lightweight-Chart\index.html" />
+    <Content Include="Content\js\Lightweight-Chart\jquery.chart.js" />
+    <Content Include="Content\js\Lightweight-Chart\jquery.chart.min.js" />
+    <Content Include="Content\js\morris\morris-0.4.3.min.css" />
+    <Content Include="Content\js\morris\morris.js" />
+    <Content Include="Content\js\morris\raphael-2.1.0.min.js" />
+    <Content Include="Content\js\select2.full.min.js" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -162,6 +194,15 @@
     <Content Include="Content\bootstrap-reboot.css.map" />
     <Content Include="Content\bootstrap-grid.min.css.map" />
     <Content Include="Content\bootstrap-grid.css.map" />
+    <Content Include="Content\font-awesome\fonts\fontawesome-webfontba72.eot" />
+    <Content Include="Content\font-awesome\fonts\fontawesome-webfontba72.ttf" />
+    <Content Include="Content\font-awesome\fonts\fontawesome-webfontba72.woff" />
+    <Content Include="Content\font-awesome\fonts\fontawesome-webfontd41d.eot" />
+    <Content Include="Content\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Content\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Content\fonts\glyphicons-halflings-regulard41d.eot" />
+    <Content Include="Content\js\Lightweight-Chart\README.md" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -271,6 +312,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Content\plugins\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
